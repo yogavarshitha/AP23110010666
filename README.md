@@ -58,3 +58,28 @@ AP23110010666/
 ```bash
 npm install
 node index.js
+
+## 📊 Sample Output
+
+Maintenance Plan:
+Depot 1 → LOW priority  
+Depot 2 → HIGH priority  
+
+Top 10 Priority Notifications:
+- Placement: Amazon hiring
+- Event: traditional-day
+...
+
+## 📄 Documentation
+
+Detailed system design is available in:
+
+notification_system_design.md
+
+It includes:
+- API Design
+- Database Design
+- Query Optimization
+- Performance Improvements
+- notify_all redesign
+- Priority logic explanation
